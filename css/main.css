@@ -1,0 +1,23 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  border-bottom: 1px solid #000;
+}
+
+.contact {
+  background-color: #fff;
+  padding-right: 1.3em;
+  padding-left: 1.3em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .contact {
+    padding-right: 1em;
+    padding-left: 1em;
+  }
+
+}
